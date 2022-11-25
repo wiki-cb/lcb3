@@ -1,0 +1,2 @@
+# Vectoriser une image
+Chemin/Vectoriser un objet matriciel - Plusieurs passes - couleurs - Moucheture 1 adoucir aussi optimiser 0,1 s'il y a trop de mouchetures vous pouvez reprendre le logo au seau de peinture pour enlever les nuances et les reprendre à nouveau dans inkscape.

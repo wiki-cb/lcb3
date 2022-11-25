@@ -1,0 +1,1 @@
+[[notes/equipements/outils/L_Outils]] [aspirateur](notes/nettoyage/outils/aspirateur.md) [dominiqueByrde](notes/utilisateurs/beneficiaires/dominiqueByrde.md)

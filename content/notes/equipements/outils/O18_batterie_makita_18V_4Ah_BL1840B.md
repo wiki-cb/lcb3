@@ -1,0 +1,1 @@
+[[notes/equipements/outils/L_Outils]]es/equipements/consommables/C_BatteriesMakita]] [Pacman](notes/equipements/vehicules/Pacman.md)

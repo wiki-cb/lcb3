@@ -1,0 +1,1 @@
+[[notes/equipements/L_Vetements]] [[V_PantalonOrangeBleu]] [[?]]

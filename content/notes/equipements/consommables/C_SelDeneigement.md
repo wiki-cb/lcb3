@@ -1,0 +1,1 @@
+25kg 14,5chf [[notes/utilisateurs/fournisseurs/landi]]
